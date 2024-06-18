@@ -2,11 +2,15 @@
   <img src="https://docs.owl.build/logo.png" alt="Owl Protocol">
 </p>
 
-Welcome to the **Awesome Owl Protocol** repository! This is your one-stop destination for all things related to the Owl Protocol, including documentation, hackathon projects, blog posts, tutorials, and more.
+Welcome to the **Awesome Owl Protocol** repository! This is your go-to resource for all things related to the Owl Protocol, including documentation, hackathon projects, blog posts, tutorials, and more.
 
 ## Introduction
 
-Owl Protocol empowers developers to create feature-rich, user-friendly Web3 applications for mainstream adoption. Our modular infrastructure simplifies blockchain development through four key solutions: [Contracts API](https://docs.owl.build/learn-api) for simple Web3 development, [Smart Wallets (ERC4337)](https://docs.owl.build/learn-wallets) for users and developers, [No-Code Smart Contract Management](https://docs.owl.build/learn-no-code), and [integration with over 6000 Web2 plugins](https://docs.owl.build/learn-zapier) using Zapier.
+Owl Protocol empowers developers to build feature-rich, user-friendly Web3 apps for mainstream adoption. Our modular infrastructure simplifies blockchain development through four key solutions: 
+1. [Contracts API](https://docs.owl.build/learn-api) - Deploy and interact with contracts using simple REST APIs, no signing or gas fees required
+2. [Smart Wallets (ERC4337)](https://docs.owl.build/learn-wallets) - Simplify user onboarding and provide the best experience with sponsored transactions, social logins and more+ 
+3. [No-Code Smart Contract Management](https://docs.owl.build/learn-no-code) - Create and manage projects, users and contracts with a customizable dashboard
+4. [Web2 Plugins Integrations](https://docs.owl.build/learn-zapier) - Integrate over 6000+ Web2 plugins, like Salesforce, Stripe, Eventbrite and more with Zapier
 
 ## Table of Contents
 
@@ -32,21 +36,21 @@ For comprehensive information about the Owl Protocol, please visit our [document
 
 Several innovative projects have been built using the Owl Protocol during hackathons. Here are a few notable ones, along with their detailed blog posts:
 
-- **[Looner](https://dorahacks.io/buidl/11498)**: A scavenger hunt with digital rewards built using our NFT minting API & Smart Wallets. They won 2nd place on the Celestia main track!
-- **[GitZapOwl](https://dorahacks.io/buidl/12755)**: NFT project contribution rewards built using our low-code Zapier plugin, connecting GitHub PRs with NFT minting to authors.
-  - **Blog Post**: [Effortless GitHub Contributor Rewards](https://medium.com/@nithinkatkam504106/effortless-github-contributor-rewards-integrate-owl-protocol-with-zapier-8df18e10afc3): Discover how GitOwlZap leverages Owl Protocol’s APIs and Zapier integration to automatically reward GitHub contributors, simplifying blockchain development.
-- **[LoyaltyRoller](https://dorahacks.io/buidl/12705)**: A brand loyalty program integrating Stripe via Zapier, Token Bound Accounts, and NFT Minting.
+- **[Looner](https://dorahacks.io/buidl/11498)**: A scavenger hunt with digital rewards built using Owl NFT Minting API & Smart Wallets. They won 2nd place on the Celestia Hackaton main track!
+- **[GitZapOwl](https://dorahacks.io/buidl/12755)**: Project contribution rewards built using our low-code Zapier plugin, connecting GitHub PRs with NFT minting to authors.
+  - **Blog Post**: [Effortless GitHub Contributor Rewards](https://medium.com/@nithinkatkam504106/effortless-github-contributor-rewards-integrate-owl-protocol-with-zapier-8df18e10afc3): Discover how GitOwlZap leverages Owl Protocol’s APIs and Zapier integration to automatically reward GitHub contributors.
+- **[LoyaltyRoller](https://dorahacks.io/buidl/12705)**: A brand loyalty program integrating Stripe, Token Bound Accounts, and NFT Minting.
   - **Blog Post**: [Automating NFT Rewards for Shopify Orders](https://medium.com/@nithinkatkam504106/automating-nft-rewards-for-shopify-orders-using-owl-protocol-and-zapier-ef2195518c54): Enhance customer engagement and loyalty by integrating Owl Protocol with Zapier to seamlessly mint NFTs as rewards for Shopify customers.
-- **[Owl Assistant](https://dorahacks.io/buidl/12708)**: A ChatGPT agent built with FlowiseAI, our docs, and our OpenAPI specification. The bot can answer questions and make Owl API calls to mint or create NFTs.
-  - **Blog Post**: [Creating an AI Chatbot to Mint NFTs](https://medium.com/@asharibali/creating-an-ai-chatbot-to-mint-nfts-a-step-by-step-guide-1cdd5f35a442): Learn how to build an AI-powered NFT minting chatbot using Owl Protocol and FlowiseAI, combining AI with blockchain technology in a unique and interesting way.
+- **[Owl Assistant](https://dorahacks.io/buidl/12708)**: A ChatGPT agent built with FlowiseAI, Owl docs, and our OpenAPI specification. The bot can answer questions and make Owl API calls to mint or create NFTs.
+  - **Blog Post**: [Creating an AI Chatbot to Mint NFTs](https://medium.com/@asharibali/creating-an-ai-chatbot-to-mint-nfts-a-step-by-step-guide-1cdd5f35a442): Learn how to build an AI-powered NFT minting chatbot using Owl Protocol and FlowiseAI, combining AI with blockchain technology in a unique way.
 
 ## Tutorials 📘
 
 Follow these tutorials to get started with Owl Protocol:
 
 - [Getting Started with Owl Protocol](https://docs.owl.build/quickstart)
-- [Gasless Transaction](https://docs.owl.build/tutorials-account-abstraction/gasless-transactions)
-- [Zapier](https://docs.owl.build/tutorials-zapier/google-form)
+- [Send Your First Gasless Transaction](https://docs.owl.build/tutorials-account-abstraction/gasless-transactions)
+- [Integrating Google Forms and NFT Minting with Zapier](https://docs.owl.build/tutorials-zapier/google-form)
 
 ## Integration Examples 🔗
 
