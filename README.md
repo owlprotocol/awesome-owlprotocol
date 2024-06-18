@@ -9,7 +9,7 @@ Welcome to the **Awesome Owl Protocol** repository! This is your go-to resource 
 Owl Protocol empowers developers to build feature-rich, user-friendly Web3 apps for mainstream adoption. Our modular infrastructure simplifies blockchain development through four key solutions: 
 1. [Contracts API](https://docs.owl.build/learn-api) - Deploy and interact with contracts using simple REST APIs, no signing or gas fees required
 2. [Smart Wallets (ERC4337)](https://docs.owl.build/learn-wallets) - Simplify user onboarding and provide the best experience with sponsored transactions, social logins and more+ 
-3. [No-Code Smart Contract Management](https://docs.owl.build/learn-no-code) - Create and manage projects, users and contracts with a customizable dashboard
+3. [No-Code Dashboard](https://docs.owl.build/learn-no-code) - Create and manage projects, users and contracts with a customizable dashboard
 4. [Web2 Plugins Integrations](https://docs.owl.build/learn-zapier) - Integrate over 6000+ Web2 plugins, like Salesforce, Stripe, Eventbrite and more with Zapier
 
 ## Table of Contents
