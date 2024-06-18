@@ -36,7 +36,7 @@ For comprehensive information about the Owl Protocol, please visit our [document
 
 Several innovative projects have been built using the Owl Protocol during hackathons. Here are a few notable ones, along with their detailed blog posts:
 
-- **[Looner](https://dorahacks.io/buidl/11498)**: A scavenger hunt with digital rewards built using Owl NFT Minting API & Smart Wallets. They won 2nd place on the Celestia Hackaton main track!
+- **[Looner](https://dorahacks.io/buidl/11498)**: A scavenger hunt with digital rewards built using Contracts API & Smart Wallets. They won 2nd place on the Celestia Hackaton main track!
 - **[GitZapOwl](https://dorahacks.io/buidl/12755)**: Project contribution rewards built using our low-code Zapier plugin, connecting GitHub PRs with NFT minting to authors.
   - **Blog Post**: [Effortless GitHub Contributor Rewards](https://medium.com/@nithinkatkam504106/effortless-github-contributor-rewards-integrate-owl-protocol-with-zapier-8df18e10afc3): Discover how GitOwlZap leverages Owl Protocol’s APIs and Zapier integration to automatically reward GitHub contributors.
 - **[LoyaltyRoller](https://dorahacks.io/buidl/12705)**: A brand loyalty program integrating Stripe, Token Bound Accounts, and NFT Minting.
